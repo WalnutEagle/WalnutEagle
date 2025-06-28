@@ -22,8 +22,8 @@ A passionate Robotics and Machine Learning Engineer specializing in Generative A
 
 I'm currently focused on building and deploying cutting-edge Generative AI applications. Here are some of my recent projects:
 
--   **[HealthInsight-Bot](https://github.com/AdwaitKulkarni/HealthInsight-Bot)**: A RAG-powered medical Q&A system using Langchain and OpenAI to provide accurate, context-aware answers from a private knowledge base.
--   **[Pill-Pal-Agent](https://github.com/AdwaitKulkarni/Pill-Pal-Agent)**: A multi-modal agent built with Google Gemini that identifies medications from images and uses agentic tools to find detailed information.
+-   **[HealthInsight](https://github.com/WalnutEagle/HealthInsight)**: A RAG-powered medical Q&A system using Langchain and OpenAI to provide accurate, context-aware answers from a private knowledge base.
+-   **[Pill-Pal](https://github.com/AdwaitKulkarni/Pil-Pal)**: A multi-modal agent built with Google Gemini that identifies medications from images and uses agentic tools to find detailed information.
 -   **[3D-Medical-Image-Reconstruction](https://github.com/AdwaitKulkarni/3D-Medical-Image-Reconstruction)**: An unsupervised deep learning project to generate 3D CT scans from 2D X-ray images using Cycle-GANs and Diffusion Models.
 
 ---
