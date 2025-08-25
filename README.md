@@ -17,17 +17,6 @@ Here are some ideas to get you started:
 A passionate Robotics and Machine Learning Engineer specializing in Generative AI, Autonomous Systems, and Deep Learning. I enjoy building innovative AI-driven solutions that solve real-world problems.
 
 ---
-
-### 🚀 What I'm Working On
-
-I'm currently focused on building and deploying cutting-edge Generative AI applications. Here are some of my recent projects:
-
--   **[HealthInsight](https://github.com/WalnutEagle/HealthInsight)**: A RAG-powered medical Q&A system using Langchain and OpenAI to provide accurate, context-aware answers from a private knowledge base.
--   **[Pill-Pal](https://github.com/WalnutEagle/Pil-Pal)**: A multi-modal agent built with Google Gemini that identifies medications from images and uses agentic tools to find detailed information.
--   **[3D-Medical-Image-Reconstruction](https://github.com/WalnutEagle/2D-3D-Reconstruction-using-unsupervised-GANs)**: An unsupervised deep learning project to generate 3D CT scans from 2D X-ray images using Cycle-GANs and Diffusion Models.
-
----
-
 ### 🛠️ My Tech Stack & Tools
 
 Here are some of the key technologies I work with:
