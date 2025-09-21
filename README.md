@@ -44,7 +44,6 @@ Here are some of the key technologies I work with:
 
 ### 📫 How to Reach Me
 
--   **LinkedIn:** [linkedin.com/in/AdwaitKulkarni](https://www.linkedin.com/in/AdwaitKulkarrni)
 -   **Email:** [adk1361@bu.edu](mailto:adk1361@bu.edu)
 
 ---
