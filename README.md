@@ -14,33 +14,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I’m Adwait Kulkarni
 
-A passionate Robotics and Machine Learning Engineer specializing in Generative AI, Autonomous Systems, and Deep Learning. I enjoy building innovative AI-driven solutions that solve real-world problems.
+A passionate Robotics and Machine Learning Engineer specializing in Generative AI, Autonomous Systems, and Deep Learning. I enjoy building innovative AI-driven solutions that solve real-world problems. My backgroun is Bachelors in Mechanical & Masters in Robotics, which enables me to opreate in Manufacturing/AI/Robotics/Mechanical Industry.
 
----
-### 🛠️ My Tech Stack & Tools
-
-Here are some of the key technologies I work with:
-
-**GenAI & Machine Learning:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-008661?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-**Cloud & DevOps:**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
 
 ### 📫 How to Reach Me
 
